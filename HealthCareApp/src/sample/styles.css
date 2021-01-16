@@ -1,0 +1,14 @@
+.sidePane {
+    -fx-background-color: #F9F9F9;
+}
+.mainPane {
+    -fx-background-color: #F2F2F2;
+}
+.circlePane {
+    -fx-background-radius: 100%;
+    -fx-background-color: #A1ACD1;
+}
+.btnCircle {
+    -fx-background-radius: 100%;
+
+}
